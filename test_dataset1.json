@@ -1,0 +1,282 @@
+{
+  "2021f-rev-maze": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "maze",
+    "path": "test/2021/CSAW-Finals/rev/maze"
+  },
+  "2021f-rev-sfc": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "sfc",
+    "path": "test/2021/CSAW-Finals/rev/sfc"
+  },
+  "2021f-cry-interoperable": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Interoperable",
+    "path": "test/2021/CSAW-Finals/crypto/Interoperable"
+  },
+  "2021f-cry-ibad": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "iBad",
+    "path": "test/2021/CSAW-Finals/crypto/iBad"
+  },
+  "2021f-cry-collision_course": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Collision-Course",
+    "path": "test/2021/CSAW-Finals/crypto/Collision-Course"
+  },
+  "2021f-for-no_time_to_register": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "forensics",
+    "challenge": "No-Time-to-Register",
+    "path": "test/2021/CSAW-Finals/forensics/No-Time-to-Register"
+  },
+  "2021f-for-constela": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "forensics",
+    "challenge": "constela",
+    "path": "test/2021/CSAW-Finals/forensics/constela"
+  },
+  "2021f-msc-terminal_velocity": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "terminal-velocity",
+    "path": "test/2021/CSAW-Finals/misc/terminal-velocity"
+  },
+  "2021f-pwn-horrorscope": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "horrorscope",
+    "path": "test/2021/CSAW-Finals/pwn/horrorscope"
+  },
+  "2021f-pwn-chatterbox": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "chatterbox",
+    "path": "test/2021/CSAW-Finals/pwn/chatterbox"
+  },
+  "2021q-rev-ransomware": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "ransomware",
+    "path": "test/2021/CSAW-Quals/rev/ransomware"
+  },
+  "2021q-rev-macomal": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "macomal",
+    "path": "test/2021/CSAW-Quals/rev/macomal"
+  },
+  "2021q-rev-ncore": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "ncore",
+    "path": "test/2021/CSAW-Quals/rev/ncore"
+  },
+  "2021q-rev-checker": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "checker",
+    "path": "test/2021/CSAW-Quals/rev/checker"
+  },
+  "2021q-cry-bits": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Bits",
+    "path": "test/2021/CSAW-Quals/crypto/Bits"
+  },
+  "2021q-cry-gotta_decrypt_them_all": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Gotta-Decrypt-Them-All",
+    "path": "test/2021/CSAW-Quals/crypto/Gotta-Decrypt-Them-All"
+  },
+  "2021q-cry-crack_me": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Crack-Me",
+    "path": "test/2021/CSAW-Quals/crypto/Crack-Me"
+  },
+  "2021q-cry-rsa_pop_quiz": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "RSA-Pop-Quiz",
+    "path": "test/2021/CSAW-Quals/crypto/RSA-Pop-Quiz"
+  },
+  "2021q-cry-ecc_pop_quiz": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "ECC-Pop-Quiz",
+    "path": "test/2021/CSAW-Quals/crypto/ECC-Pop-Quiz"
+  },
+  "2021q-cry-forgery": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Forgery",
+    "path": "test/2021/CSAW-Quals/crypto/Forgery"
+  },
+  "2021q-for-lazy_leaks": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "Lazy-Leaks",
+    "path": "test/2021/CSAW-Quals/forensics/Lazy-Leaks"
+  },
+  "2021q-msc-weak_password": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "Weak-Password",
+    "path": "test/2021/CSAW-Quals/misc/Weak-Password"
+  },
+  "2021q-msc-save_the_tristate": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "Save-the-Tristate",
+    "path": "test/2021/CSAW-Quals/misc/Save-the-Tristate"
+  },
+  "2021q-web-no_pass_needed": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "no-pass-needed",
+    "path": "test/2021/CSAW-Quals/web/no-pass-needed"
+  },
+  "2021q-web-poem_collection": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "poem-collection",
+    "path": "test/2021/CSAW-Quals/web/poem-collection"
+  },
+  "2021q-web-securinotes": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "securinotes",
+    "path": "test/2021/CSAW-Quals/web/securinotes"
+  },
+  "2021q-web-gatekeeping": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "gatekeeping",
+    "path": "test/2021/CSAW-Quals/web/gatekeeping"
+  },
+  "2021q-web-scp_terminal": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "scp-terminal",
+    "path": "test/2021/CSAW-Quals/web/scp-terminal"
+  },
+  "2021q-pwn-krypto": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "krypto",
+    "path": "test/2021/CSAW-Quals/pwn/krypto"
+  },
+  "2021q-pwn-alien_math": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "alien-math",
+    "path": "test/2021/CSAW-Quals/pwn/alien-math"
+  },
+  "2021q-pwn-password_checker": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "Password-Checker",
+    "path": "test/2021/CSAW-Quals/pwn/Password-Checker"
+  },
+  "2021q-pwn-haystack": {
+    "year": "2021",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "haystack",
+    "path": "test/2021/CSAW-Quals/pwn/haystack"
+  },
+  "2020f-rev-rap": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "rap",
+    "path": "test/2020/CSAW-Finals/rev/rap"
+  },
+  "2020f-rev-brrr": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "brrr",
+    "path": "test/2020/CSAW-Finals/rev/brrr"
+  },
+  "2020f-rev-yeet": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "yeet",
+    "path": "test/2020/CSAW-Finals/rev/yeet"
+  },
+  "2020f-rev-sourcery": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "sourcery",
+    "path": "test/2020/CSAW-Finals/rev/sourcery"
+  },
+  "2020f-cry-eccentric": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "eccentric",
+    "path": "test/2020/CSAW-Finals/crypto/eccentric"
+  },
+  "2020f-cry-hybrid2": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "hybrid2",
+    "path": "test/2020/CSAW-Finals/crypto/hybrid2"
+  },
+  "2020f-cry-the_matrix": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "the_matrix",
+    "path": "test/2020/CSAW-Finals/crypto/the_matrix"
+  },
+  "2020f-cry-jackpot": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "jackpot",
+    "path": "test/2020/CSAW-Finals/crypto/jackpot"
+  }
+}

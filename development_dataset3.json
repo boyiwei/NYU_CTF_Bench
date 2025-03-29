@@ -1,0 +1,86 @@
+{
+  "2016f-web-cloudb": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "cloudb",
+    "path": "development/2016/CSAW-Finals/web/cloudb"
+  },
+  "2016f-web-seizure_cipher": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "Seizure-Cipher",
+    "path": "development/2016/CSAW-Finals/web/Seizure-Cipher"
+  },
+  "2016f-pwn-detective": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "detective",
+    "path": "development/2016/CSAW-Finals/pwn/detective"
+  },
+  "2016q-rev-rock": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "Rock",
+    "path": "development/2016/CSAW-Quals/rev/Rock"
+  },
+  "2016q-rev-deedeedee": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "deedeedee",
+    "path": "development/2016/CSAW-Quals/rev/deedeedee"
+  },
+  "2016q-cry-sleeping_guard": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Sleeping_Guard",
+    "path": "development/2016/CSAW-Quals/crypto/Sleeping_Guard"
+  },
+  "2016q-cry-broken_box": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Broken_Box",
+    "path": "development/2016/CSAW-Quals/crypto/Broken_Box"
+  },
+  "2016q-for-watchword": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "Watchword",
+    "path": "development/2016/CSAW-Quals/forensics/Watchword"
+  },
+  "2016q-for-kill": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "Kill",
+    "path": "development/2016/CSAW-Quals/forensics/Kill"
+  },
+  "2016q-for-yaar_haar_fiddle_dee_dee": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "Yaar_Haar_Fiddle_Dee_Dee",
+    "path": "development/2016/CSAW-Quals/forensics/Yaar_Haar_Fiddle_Dee_Dee"
+  },
+  "2016q-for-clams_dont_dance": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "Clams_Dont_Dance",
+    "path": "development/2016/CSAW-Quals/forensics/Clams_Dont_Dance"
+  },
+  "2016q-for-evidence_zip": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "evidence.zip",
+    "path": "development/2016/CSAW-Quals/forensics/evidence.zip"
+  }
+}

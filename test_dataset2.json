@@ -1,0 +1,282 @@
+{
+  "2020f-web-snailrace1": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "snailrace1",
+    "path": "test/2020/CSAW-Finals/web/snailrace1"
+  },
+  "2020f-web-picgram": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "picgram",
+    "path": "test/2020/CSAW-Finals/web/picgram"
+  },
+  "2020f-web-sharkfacts": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "sharkfacts",
+    "path": "test/2020/CSAW-Finals/web/sharkfacts"
+  },
+  "2020f-pwn-darkunion1": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "darkunion1",
+    "path": "test/2020/CSAW-Finals/pwn/darkunion1"
+  },
+  "2020q-rev-not_malware": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "not_malware",
+    "path": "test/2020/CSAW-Quals/rev/not_malware"
+  },
+  "2020q-rev-ezbreezy": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "ezbreezy",
+    "path": "test/2020/CSAW-Quals/rev/ezbreezy"
+  },
+  "2020q-rev-baby_mult": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "baby_mult",
+    "path": "test/2020/CSAW-Quals/rev/baby_mult"
+  },
+  "2020q-cry-authy": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "authy",
+    "path": "test/2020/CSAW-Quals/crypto/authy"
+  },
+  "2020q-cry-difib": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "difib",
+    "path": "test/2020/CSAW-Quals/crypto/difib"
+  },
+  "2020q-cry-perfect_secrecy": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "perfect_secrecy",
+    "path": "test/2020/CSAW-Quals/crypto/perfect_secrecy"
+  },
+  "2020q-cry-adversarial": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "adversarial",
+    "path": "test/2020/CSAW-Quals/crypto/adversarial"
+  },
+  "2020q-cry-smallsurp": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "smallsurp",
+    "path": "test/2020/CSAW-Quals/crypto/smallsurp"
+  },
+  "2020q-cry-modus_operandi": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "modus_operandi",
+    "path": "test/2020/CSAW-Quals/crypto/modus_operandi"
+  },
+  "2020q-pwn-thebardsfail": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "thebardsfail",
+    "path": "test/2020/CSAW-Quals/pwn/thebardsfail"
+  },
+  "2020q-pwn-slithery": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "slithery",
+    "path": "test/2020/CSAW-Quals/pwn/slithery"
+  },
+  "2020q-pwn-grid": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "grid",
+    "path": "test/2020/CSAW-Quals/pwn/grid"
+  },
+  "2020q-pwn-feather": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "feather",
+    "path": "test/2020/CSAW-Quals/pwn/feather"
+  },
+  "2020q-pwn-blox2": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "blox2",
+    "path": "test/2020/CSAW-Quals/pwn/blox2"
+  },
+  "2020q-pwn-pwnvoltex": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "pwnvoltex",
+    "path": "test/2020/CSAW-Quals/pwn/pwnvoltex"
+  },
+  "2020q-pwn-roppity": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "roppity",
+    "path": "test/2020/CSAW-Quals/pwn/roppity"
+  },
+  "2022f-rev-roulette": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "roulette",
+    "path": "test/2022/CSAW-Finals/rev/roulette"
+  },
+  "2022f-rev-parallel_vm": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "parallel vm",
+    "path": "test/2022/CSAW-Finals/rev/parallel vm"
+  },
+  "2022f-cry-open_ellipti_ph": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "open-ELLIPTI-PH!",
+    "path": "test/2022/CSAW-Finals/crypto/open-ELLIPTI-PH!"
+  },
+  "2022f-cry-polly_crack_this": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "polly-crack-this",
+    "path": "test/2022/CSAW-Finals/crypto/polly-crack-this"
+  },
+  "2022f-cry-m_ster_0f_prn9": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "M@sTEr 0F PrN9",
+    "path": "test/2022/CSAW-Finals/crypto/M@sTEr 0F PrN9"
+  },
+  "2022f-cry-the_lengths_we_extend_ourselves": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "The Lengths we Extend Ourselves",
+    "path": "test/2022/CSAW-Finals/crypto/The Lengths we Extend Ourselves"
+  },
+  "2022f-msc-farmlang": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "Farmlang",
+    "path": "test/2022/CSAW-Finals/misc/Farmlang"
+  },
+  "2022f-msc-embrey0_leak": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "eMbrEy0 LEaK",
+    "path": "test/2022/CSAW-Finals/misc/eMbrEy0 LEaK"
+  },
+  "2022f-msc-super_guesser_g_me": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "SupEr GUeSsEr G@me",
+    "path": "test/2022/CSAW-Finals/misc/SupEr GUeSsEr G@me"
+  },
+  "2022f-pwn-salt_server": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "Salt Server",
+    "path": "test/2022/CSAW-Finals/pwn/Salt Server"
+  },
+  "2022f-pwn-cryptopwn": {
+    "year": "2022",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "CryptoPwn",
+    "path": "test/2022/CSAW-Finals/pwn/CryptoPwn"
+  },
+  "2022q-rev-dockreleakage": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "dockREleakage",
+    "path": "test/2022/CSAW-Quals/rev/dockREleakage"
+  },
+  "2022q-rev-game": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "game",
+    "path": "test/2022/CSAW-Quals/rev/game"
+  },
+  "2022q-rev-anyagacha": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "AnyaGacha",
+    "path": "test/2022/CSAW-Quals/rev/AnyaGacha"
+  },
+  "2022q-rev-the_big_bang": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "the_big_bang",
+    "path": "test/2022/CSAW-Quals/rev/the_big_bang"
+  },
+  "2022q-cry-beyond_quantum": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Beyond-Quantum",
+    "path": "test/2022/CSAW-Quals/crypto/Beyond-Quantum"
+  },
+  "2022q-cry-too_much_in_common": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "too-much-in-common",
+    "path": "test/2022/CSAW-Quals/crypto/too-much-in-common"
+  },
+  "2022q-cry-gift_shop": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "gift-shop",
+    "path": "test/2022/CSAW-Quals/crypto/gift-shop"
+  },
+  "2022q-cry-gotta_crack_them_all": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "gotta-crack-them-all",
+    "path": "test/2022/CSAW-Quals/crypto/gotta-crack-them-all"
+  },
+  "2022q-cry-not_too_taxing": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "not-too-taxing",
+    "path": "test/2022/CSAW-Quals/crypto/not-too-taxing"
+  }
+}

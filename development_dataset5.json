@@ -1,0 +1,65 @@
+{
+  "2015q-cry-eps": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "eps",
+    "path": "development/2015/CSAW-Quals/crypto/eps"
+  },
+  "2015q-cry-eps_part2": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "eps_part2",
+    "path": "development/2015/CSAW-Quals/crypto/eps_part2"
+  },
+  "2015q-cry-bricks_of_gold": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "bricks_of_gold",
+    "path": "development/2015/CSAW-Quals/crypto/bricks_of_gold"
+  },
+  "2015q-for-sharpturn": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "sharpturn",
+    "path": "development/2015/CSAW-Quals/forensics/sharpturn"
+  },
+  "2015q-for-flash": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "flash",
+    "path": "development/2015/CSAW-Quals/forensics/flash"
+  },
+  "2015q-for-pcapin": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "pcapin",
+    "path": "development/2015/CSAW-Quals/forensics/pcapin"
+  },
+  "2015q-web-k_stairs": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "k_stairs",
+    "path": "development/2015/CSAW-Quals/web/k_stairs"
+  },
+  "2015q-web-throwback": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "throwback",
+    "path": "development/2015/CSAW-Quals/web/throwback"
+  },
+  "2015q-pwn-meme_shop": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "meme-shop",
+    "path": "development/2015/CSAW-Quals/pwn/meme-shop"
+  }
+}

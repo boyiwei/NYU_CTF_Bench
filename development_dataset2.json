@@ -1,0 +1,86 @@
+{
+  "2014f-msc-pps": {
+    "year": "2014",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "pps",
+    "path": "development/2014/CSAW-Finals/misc/pps"
+  },
+  "2014f-web-webroot": {
+    "year": "2014",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "webroot",
+    "path": "development/2014/CSAW-Finals/web/webroot"
+  },
+  "2014f-pwn-kernel": {
+    "year": "2014",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "kernel",
+    "path": "development/2014/CSAW-Finals/pwn/kernel"
+  },
+  "2014q-rev-aerosol_can": {
+    "year": "2014",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "aerosol_can",
+    "path": "development/2014/CSAW-Quals/rev/aerosol_can"
+  },
+  "2014q-rev-weissman": {
+    "year": "2014",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "weissman",
+    "path": "development/2014/CSAW-Quals/rev/weissman"
+  },
+  "2014q-web-silkgoat": {
+    "year": "2014",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "silkgoat",
+    "path": "development/2014/CSAW-Quals/web/silkgoat"
+  },
+  "2014q-pwn-ish": {
+    "year": "2014",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "ish",
+    "path": "development/2014/CSAW-Quals/pwn/ish"
+  },
+  "2014q-pwn-the_road_less_traveled": {
+    "year": "2014",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "the road less traveled",
+    "path": "development/2014/CSAW-Quals/pwn/the road less traveled"
+  },
+  "2016f-rev-palo_alto": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "Palo-Alto",
+    "path": "development/2016/CSAW-Finals/rev/Palo-Alto"
+  },
+  "2016f-cry-katy": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Katy",
+    "path": "development/2016/CSAW-Finals/crypto/Katy"
+  },
+  "2016f-cry-killer_cipher": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Killer_cipher",
+    "path": "development/2016/CSAW-Finals/crypto/Killer_cipher"
+  },
+  "2016f-for-pure_poetry": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "forensics",
+    "challenge": "pure_poetry",
+    "path": "development/2016/CSAW-Finals/forensics/pure_poetry"
+  }
+}
