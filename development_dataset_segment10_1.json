@@ -1,0 +1,44 @@
+{
+  "2013f-cry-stfu": {
+    "year": "2013",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "stfu",
+    "path": "development/2013/CSAW-Finals/crypto/stfu"
+  },
+  "2013f-web-historypeats": {
+    "year": "2013",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "historypeats",
+    "path": "development/2013/CSAW-Finals/web/historypeats"
+  },
+  "2013q-cry-csawpad": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "CSAWpad",
+    "path": "development/2013/CSAW-Quals/crypto/CSAWpad"
+  },
+  "2013q-cry-slurp": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "slurp",
+    "path": "development/2013/CSAW-Quals/crypto/slurp"
+  },
+  "2013q-cry-onlythisprogram": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "onlythisprogram",
+    "path": "development/2013/CSAW-Quals/crypto/onlythisprogram"
+  },
+  "2013q-msc-life": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "Life",
+    "path": "development/2013/CSAW-Quals/misc/Life"
+  }
+}

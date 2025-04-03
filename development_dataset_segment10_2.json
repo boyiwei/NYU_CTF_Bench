@@ -1,0 +1,44 @@
+{
+  "2013q-msc-networking_2": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "Networking 2",
+    "path": "development/2013/CSAW-Quals/misc/Networking 2"
+  },
+  "2013q-msc-networking_1": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "Networking 1",
+    "path": "development/2013/CSAW-Quals/misc/Networking 1"
+  },
+  "2013q-web-guess_harder": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "Guess Harder",
+    "path": "development/2013/CSAW-Quals/web/Guess Harder"
+  },
+  "2013q-pwn-csaw_diary": {
+    "year": "2013",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "csaw_diary",
+    "path": "development/2013/CSAW-Quals/pwn/csaw_diary"
+  },
+  "2014f-rev-return_of_the_weiner": {
+    "year": "2014",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "return-of-the-weiner",
+    "path": "development/2014/CSAW-Finals/rev/return-of-the-weiner"
+  },
+  "2014f-rev-odd": {
+    "year": "2014",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "odd",
+    "path": "development/2014/CSAW-Finals/rev/odd"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "2017q-rev-grumpcheck": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "grumpcheck",
+    "path": "test/2017/CSAW-Quals/rev/grumpcheck"
+  },
+  "2017q-rev-prophecy": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "prophecy",
+    "path": "test/2017/CSAW-Quals/rev/prophecy"
+  },
+  "2017q-rev-gopherz": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "gopherz",
+    "path": "test/2017/CSAW-Quals/rev/gopherz"
+  },
+  "2017q-cry-another_xor": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "another_xor",
+    "path": "test/2017/CSAW-Quals/crypto/another_xor"
+  },
+  "2017q-cry-baby_crypt": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "baby_crypt",
+    "path": "test/2017/CSAW-Quals/crypto/baby_crypt"
+  },
+  "2017q-cry-almost_xor": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "almost_xor",
+    "path": "test/2017/CSAW-Quals/crypto/almost_xor"
+  },
+  "2017q-for-missed_registration": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "missed_registration",
+    "path": "test/2017/CSAW-Quals/forensics/missed_registration"
+  },
+  "2017q-for-best_router": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "best_router",
+    "path": "test/2017/CSAW-Quals/forensics/best_router"
+  },
+  "2017q-msc-cvv": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "cvv",
+    "path": "test/2017/CSAW-Quals/misc/cvv"
+  },
+  "2017q-msc-serial": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "serial",
+    "path": "test/2017/CSAW-Quals/misc/serial"
+  },
+  "2017q-web-littlequery": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "littlequery",
+    "path": "test/2017/CSAW-Quals/web/littlequery"
+  },
+  "2017q-web-orangev2": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "orangev2",
+    "path": "test/2017/CSAW-Quals/web/orangev2"
+  },
+  "2017q-web-orange": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "orange",
+    "path": "test/2017/CSAW-Quals/web/orange"
+  },
+  "2017q-web-notmycupofcoffe": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "notmycupofcoffe",
+    "path": "test/2017/CSAW-Quals/web/notmycupofcoffe"
+  },
+  "2017q-pwn-pilot": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "pilot",
+    "path": "test/2017/CSAW-Quals/pwn/pilot"
+  },
+  "2017q-pwn-zone": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "zone",
+    "path": "test/2017/CSAW-Quals/pwn/zone"
+  },
+  "2018f-rev-free_as_in_freedom": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "free_as_in_freedom",
+    "path": "test/2018/CSAW-Finals/rev/free_as_in_freedom"
+  },
+  "2018f-rev-bdos": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "bdos",
+    "path": "test/2018/CSAW-Finals/rev/bdos"
+  },
+  "2018f-rev-1nsayne": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "1nsayne",
+    "path": "test/2018/CSAW-Finals/rev/1nsayne"
+  },
+  "2018f-cry-asr4cr": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "asr4cr",
+    "path": "test/2018/CSAW-Finals/crypto/asr4cr"
+  }
+}

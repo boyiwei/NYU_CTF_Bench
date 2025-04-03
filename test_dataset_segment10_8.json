@@ -1,0 +1,142 @@
+{
+  "2019q-cry-count_on_me": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "count_on_me",
+    "path": "test/2019/CSAW-Quals/crypto/count_on_me"
+  },
+  "2019q-cry-super_curve": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "super_curve",
+    "path": "test/2019/CSAW-Quals/crypto/super_curve"
+  },
+  "2019q-cry-byte_me": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "byte_me",
+    "path": "test/2019/CSAW-Quals/crypto/byte_me"
+  },
+  "2019q-pwn-pop_goes_the_printer": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "pop_goes_the_printer",
+    "path": "test/2019/CSAW-Quals/pwn/pop_goes_the_printer"
+  },
+  "2019q-pwn-got_milk": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "got_milk",
+    "path": "test/2019/CSAW-Quals/pwn/got_milk"
+  },
+  "2019q-pwn-popping_caps_2": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "popping_caps_2",
+    "path": "test/2019/CSAW-Quals/pwn/popping_caps_2"
+  },
+  "2019q-pwn-popping_caps": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "popping_caps",
+    "path": "test/2019/CSAW-Quals/pwn/popping_caps"
+  },
+  "2019q-pwn-small_boi": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "small_boi",
+    "path": "test/2019/CSAW-Quals/pwn/small_boi"
+  },
+  "2019q-pwn-baby_boi": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "baby_boi",
+    "path": "test/2019/CSAW-Quals/pwn/baby_boi"
+  },
+  "2019q-pwn-traveller": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "traveller",
+    "path": "test/2019/CSAW-Quals/pwn/traveller"
+  },
+  "2017f-rev-48_bit_yeet_lab": {
+    "year": "2017",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "48-bit_yeet_lab",
+    "path": "test/2017/CSAW-Finals/rev/48-bit_yeet_lab"
+  },
+  "2017f-rev-rusty_road": {
+    "year": "2017",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "rusty_road",
+    "path": "test/2017/CSAW-Finals/rev/rusty_road"
+  },
+  "2017f-rev-rabbithole": {
+    "year": "2017",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "rabbithole",
+    "path": "test/2017/CSAW-Finals/rev/rabbithole"
+  },
+  "2017f-cry-ecxor": {
+    "year": "2017",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "ECXOR",
+    "path": "test/2017/CSAW-Finals/crypto/ECXOR"
+  },
+  "2017f-cry-lupin": {
+    "year": "2017",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Lupin",
+    "path": "test/2017/CSAW-Finals/crypto/Lupin"
+  },
+  "2017f-for-thoroughlystripped": {
+    "year": "2017",
+    "event": "CSAW-Finals",
+    "category": "forensics",
+    "challenge": "thoroughlyStripped",
+    "path": "test/2017/CSAW-Finals/forensics/thoroughlyStripped"
+  },
+  "2017f-pwn-humm_sch_t": {
+    "year": "2017",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "Humm_sCh-t",
+    "path": "test/2017/CSAW-Finals/pwn/Humm_sCh-t"
+  },
+  "2017q-rev-bananascript": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "bananascript",
+    "path": "test/2017/CSAW-Quals/rev/bananascript"
+  },
+  "2017q-rev-tablez": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "tablez",
+    "path": "test/2017/CSAW-Quals/rev/tablez"
+  },
+  "2017q-rev-realism": {
+    "year": "2017",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "realism",
+    "path": "test/2017/CSAW-Quals/rev/realism"
+  }
+}

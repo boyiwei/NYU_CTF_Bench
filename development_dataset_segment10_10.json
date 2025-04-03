@@ -1,0 +1,23 @@
+{
+  "2015q-web-k_stairs": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "k_stairs",
+    "path": "development/2015/CSAW-Quals/web/k_stairs"
+  },
+  "2015q-web-throwback": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "throwback",
+    "path": "development/2015/CSAW-Quals/web/throwback"
+  },
+  "2015q-pwn-meme_shop": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "meme-shop",
+    "path": "development/2015/CSAW-Quals/pwn/meme-shop"
+  }
+}

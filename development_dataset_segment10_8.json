@@ -1,0 +1,44 @@
+{
+  "2016q-pwn-hungman": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "Hungman",
+    "path": "development/2016/CSAW-Quals/pwn/Hungman"
+  },
+  "2015f-rev-wyvern2": {
+    "year": "2015",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "wyvern2",
+    "path": "development/2015/CSAW-Finals/rev/wyvern2"
+  },
+  "2015f-for-mandiant": {
+    "year": "2015",
+    "event": "CSAW-Finals",
+    "category": "forensics",
+    "challenge": "mandiant",
+    "path": "development/2015/CSAW-Finals/forensics/mandiant"
+  },
+  "2015f-pwn-hipster": {
+    "year": "2015",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "hipster",
+    "path": "development/2015/CSAW-Finals/pwn/hipster"
+  },
+  "2015q-rev-ftp": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "ftp",
+    "path": "development/2015/CSAW-Quals/rev/ftp"
+  },
+  "2015q-rev-wyvern": {
+    "year": "2015",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "wyvern",
+    "path": "development/2015/CSAW-Quals/rev/wyvern"
+  }
+}

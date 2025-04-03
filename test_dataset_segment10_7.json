@@ -1,0 +1,142 @@
+{
+  "2023q-web-rainbow_notes": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "rainbow-notes",
+    "path": "test/2023/CSAW-Quals/web/rainbow-notes"
+  },
+  "2023q-web-smug_dino": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "smug-dino",
+    "path": "test/2023/CSAW-Quals/web/smug-dino"
+  },
+  "2023q-pwn-unlimited_subway": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "unlimited_subway",
+    "path": "test/2023/CSAW-Quals/pwn/unlimited_subway"
+  },
+  "2023q-pwn-target_practice": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "target practice",
+    "path": "test/2023/CSAW-Quals/pwn/target practice"
+  },
+  "2023q-pwn-puffin": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "puffin",
+    "path": "test/2023/CSAW-Quals/pwn/puffin"
+  },
+  "2023q-pwn-my_first_pwnie": {
+    "year": "2023",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "my_first_pwnie",
+    "path": "test/2023/CSAW-Quals/pwn/my_first_pwnie"
+  },
+  "2019f-rev-wrangly": {
+    "year": "2019",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "wrangly",
+    "path": "test/2019/CSAW-Finals/rev/wrangly"
+  },
+  "2019f-rev-mystery_boi": {
+    "year": "2019",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "mystery_boi",
+    "path": "test/2019/CSAW-Finals/rev/mystery_boi"
+  },
+  "2019f-rev-steady_counting": {
+    "year": "2019",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "steady_counting",
+    "path": "test/2019/CSAW-Finals/rev/steady_counting"
+  },
+  "2019f-cry-macrypto": {
+    "year": "2019",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "macrypto",
+    "path": "test/2019/CSAW-Finals/crypto/macrypto"
+  },
+  "2019f-msc-alive": {
+    "year": "2019",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "alive",
+    "path": "test/2019/CSAW-Finals/misc/alive"
+  },
+  "2019f-web-biometric": {
+    "year": "2019",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "biometric",
+    "path": "test/2019/CSAW-Finals/web/biometric"
+  },
+  "2019f-pwn-arevenge": {
+    "year": "2019",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "arevenge",
+    "path": "test/2019/CSAW-Finals/pwn/arevenge"
+  },
+  "2019q-rev-beleaf": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "beleaf",
+    "path": "test/2019/CSAW-Quals/rev/beleaf"
+  },
+  "2019q-rev-call_site": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "call_site",
+    "path": "test/2019/CSAW-Quals/rev/call_site"
+  },
+  "2019q-rev-gibberish_check": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "gibberish_check",
+    "path": "test/2019/CSAW-Quals/rev/gibberish_check"
+  },
+  "2019q-rev-halfpike": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "halfpike",
+    "path": "test/2019/CSAW-Quals/rev/halfpike"
+  },
+  "2019q-rev-wizkid": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "wizkid",
+    "path": "test/2019/CSAW-Quals/rev/wizkid"
+  },
+  "2019q-cry-des2bites": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "DES2Bites",
+    "path": "test/2019/CSAW-Quals/crypto/DES2Bites"
+  },
+  "2019q-cry-brillouin": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "brillouin",
+    "path": "test/2019/CSAW-Quals/crypto/brillouin"
+  }
+}

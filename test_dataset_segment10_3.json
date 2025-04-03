@@ -1,0 +1,142 @@
+{
+  "2020f-web-snailrace1": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "snailrace1",
+    "path": "test/2020/CSAW-Finals/web/snailrace1"
+  },
+  "2020f-web-picgram": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "picgram",
+    "path": "test/2020/CSAW-Finals/web/picgram"
+  },
+  "2020f-web-sharkfacts": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "web",
+    "challenge": "sharkfacts",
+    "path": "test/2020/CSAW-Finals/web/sharkfacts"
+  },
+  "2020f-pwn-darkunion1": {
+    "year": "2020",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "darkunion1",
+    "path": "test/2020/CSAW-Finals/pwn/darkunion1"
+  },
+  "2020q-rev-not_malware": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "not_malware",
+    "path": "test/2020/CSAW-Quals/rev/not_malware"
+  },
+  "2020q-rev-ezbreezy": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "ezbreezy",
+    "path": "test/2020/CSAW-Quals/rev/ezbreezy"
+  },
+  "2020q-rev-baby_mult": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "baby_mult",
+    "path": "test/2020/CSAW-Quals/rev/baby_mult"
+  },
+  "2020q-cry-authy": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "authy",
+    "path": "test/2020/CSAW-Quals/crypto/authy"
+  },
+  "2020q-cry-difib": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "difib",
+    "path": "test/2020/CSAW-Quals/crypto/difib"
+  },
+  "2020q-cry-perfect_secrecy": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "perfect_secrecy",
+    "path": "test/2020/CSAW-Quals/crypto/perfect_secrecy"
+  },
+  "2020q-cry-adversarial": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "adversarial",
+    "path": "test/2020/CSAW-Quals/crypto/adversarial"
+  },
+  "2020q-cry-smallsurp": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "smallsurp",
+    "path": "test/2020/CSAW-Quals/crypto/smallsurp"
+  },
+  "2020q-cry-modus_operandi": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "modus_operandi",
+    "path": "test/2020/CSAW-Quals/crypto/modus_operandi"
+  },
+  "2020q-pwn-thebardsfail": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "thebardsfail",
+    "path": "test/2020/CSAW-Quals/pwn/thebardsfail"
+  },
+  "2020q-pwn-slithery": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "slithery",
+    "path": "test/2020/CSAW-Quals/pwn/slithery"
+  },
+  "2020q-pwn-grid": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "grid",
+    "path": "test/2020/CSAW-Quals/pwn/grid"
+  },
+  "2020q-pwn-feather": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "feather",
+    "path": "test/2020/CSAW-Quals/pwn/feather"
+  },
+  "2020q-pwn-blox2": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "blox2",
+    "path": "test/2020/CSAW-Quals/pwn/blox2"
+  },
+  "2020q-pwn-pwnvoltex": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "pwnvoltex",
+    "path": "test/2020/CSAW-Quals/pwn/pwnvoltex"
+  },
+  "2020q-pwn-roppity": {
+    "year": "2020",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "roppity",
+    "path": "test/2020/CSAW-Quals/pwn/roppity"
+  }
+}

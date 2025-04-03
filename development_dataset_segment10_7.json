@@ -1,0 +1,44 @@
+{
+  "2016q-msc-coinslot": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "coinslot",
+    "path": "development/2016/CSAW-Quals/misc/coinslot"
+  },
+  "2016q-msc-regexpire": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "regexpire",
+    "path": "development/2016/CSAW-Quals/misc/regexpire"
+  },
+  "2016q-web-i_got_id": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "I Got Id",
+    "path": "development/2016/CSAW-Quals/web/I Got Id"
+  },
+  "2016q-web-mfw": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "web",
+    "challenge": "MFW",
+    "path": "development/2016/CSAW-Quals/web/MFW"
+  },
+  "2016q-pwn-warmup": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "WarmUp",
+    "path": "development/2016/CSAW-Quals/pwn/WarmUp"
+  },
+  "2016q-pwn-tutorial": {
+    "year": "2016",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "Tutorial",
+    "path": "development/2016/CSAW-Quals/pwn/Tutorial"
+  }
+}

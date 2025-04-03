@@ -1,0 +1,142 @@
+{
+  "2018f-cry-lost_mind": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "lost_mind",
+    "path": "test/2018/CSAW-Finals/crypto/lost_mind"
+  },
+  "2018f-cry-distastrous_security_apparatus": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "distastrous_security_apparatus",
+    "path": "test/2018/CSAW-Finals/crypto/distastrous_security_apparatus"
+  },
+  "2018f-msc-showdown": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "showdown",
+    "path": "test/2018/CSAW-Finals/misc/showdown"
+  },
+  "2018f-msc-leaked_flag": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "misc",
+    "challenge": "leaked_flag",
+    "path": "test/2018/CSAW-Finals/misc/leaked_flag"
+  },
+  "2018f-pwn-es1337": {
+    "year": "2018",
+    "event": "CSAW-Finals",
+    "category": "pwn",
+    "challenge": "ES1337",
+    "path": "test/2018/CSAW-Finals/pwn/ES1337"
+  },
+  "2018q-rev-a_walk_through_x86_part_2": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "A-Walk-Through-x86-Part-2",
+    "path": "test/2018/CSAW-Quals/rev/A-Walk-Through-x86-Part-2"
+  },
+  "2018q-rev-kvm": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "kvm",
+    "path": "test/2018/CSAW-Quals/rev/kvm"
+  },
+  "2018q-rev-a_walk_through_x86_part_1": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "A-Walk-Through-x86-Part-1",
+    "path": "test/2018/CSAW-Quals/rev/A-Walk-Through-x86-Part-1"
+  },
+  "2018q-cry-lowe": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "lowe",
+    "path": "test/2018/CSAW-Quals/crypto/lowe"
+  },
+  "2018q-cry-collusion": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "collusion",
+    "path": "test/2018/CSAW-Quals/crypto/collusion"
+  },
+  "2018q-cry-babycrypto": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "babycrypto",
+    "path": "test/2018/CSAW-Quals/crypto/babycrypto"
+  },
+  "2018q-cry-flatcrypt": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "flatcrypt",
+    "path": "test/2018/CSAW-Quals/crypto/flatcrypt"
+  },
+  "2018q-for-simple_recovery": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "simple-recovery",
+    "path": "test/2018/CSAW-Quals/forensics/simple-recovery"
+  },
+  "2018q-for-whyos": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "forensics",
+    "challenge": "whyOS",
+    "path": "test/2018/CSAW-Quals/forensics/whyOS"
+  },
+  "2018q-msc-short_circuit": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "Short-Circuit",
+    "path": "test/2018/CSAW-Quals/misc/Short-Circuit"
+  },
+  "2018q-msc-bin_t": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "bin_t",
+    "path": "test/2018/CSAW-Quals/misc/bin_t"
+  },
+  "2018q-msc-algebra": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "algebra",
+    "path": "test/2018/CSAW-Quals/misc/algebra"
+  },
+  "2018q-pwn-shellpointcode": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "shellpointcode",
+    "path": "test/2018/CSAW-Quals/pwn/shellpointcode"
+  },
+  "2018q-pwn-bigboy": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "bigboy",
+    "path": "test/2018/CSAW-Quals/pwn/bigboy"
+  },
+  "2018q-pwn-get_it": {
+    "year": "2018",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "get_it?",
+    "path": "test/2018/CSAW-Quals/pwn/get_it?"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "2014q-pwn-ish": {
+    "year": "2014",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "ish",
+    "path": "development/2014/CSAW-Quals/pwn/ish"
+  },
+  "2014q-pwn-the_road_less_traveled": {
+    "year": "2014",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "the road less traveled",
+    "path": "development/2014/CSAW-Quals/pwn/the road less traveled"
+  },
+  "2016f-rev-palo_alto": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "Palo-Alto",
+    "path": "development/2016/CSAW-Finals/rev/Palo-Alto"
+  },
+  "2016f-cry-katy": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Katy",
+    "path": "development/2016/CSAW-Finals/crypto/Katy"
+  },
+  "2016f-cry-killer_cipher": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "crypto",
+    "challenge": "Killer_cipher",
+    "path": "development/2016/CSAW-Finals/crypto/Killer_cipher"
+  },
+  "2016f-for-pure_poetry": {
+    "year": "2016",
+    "event": "CSAW-Finals",
+    "category": "forensics",
+    "challenge": "pure_poetry",
+    "path": "development/2016/CSAW-Finals/forensics/pure_poetry"
+  }
+}
